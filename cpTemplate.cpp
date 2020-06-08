@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 #define ll long long int
-#define fo(i,n)
+#define fo(i,n) for(int i=0;i<n;i++)
 #define pb push_back
 #define mp make_pair
 #define F first
