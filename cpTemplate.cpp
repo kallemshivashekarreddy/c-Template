@@ -13,6 +13,7 @@
 #define pii pair<int,int> 
 #define vi vector<int>
 #define vl vector<ll>  
+#define vb vector<bool>
 #define vpii vector<pii> 
 #define vvi vector<vi> 
 #define vvl vector<vl> 
