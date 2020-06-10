@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 #define ll long long int
-#define fo(i,n) for(int i=0;i<n;i++)
+#define fo(i,n) for(long long unsigned  i=0;i<n;i++)
 #define pb push_back
 #define mp make_pair
 #define F first
@@ -17,6 +17,8 @@
 #define vpii vector<pii> 
 #define vvi vector<vi> 
 #define vvl vector<vl> 
+#define lb(x,val) lower_bound(x.begin(),x.end(),val)-x.begin()
+#define ub(x,val) upper_bound(x.begin(),x.end(),val)-x.begin()
 using namespace std;
 int power(int base, int exp); 
 const int mod = 1000000007;
